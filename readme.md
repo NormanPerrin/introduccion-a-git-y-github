@@ -63,7 +63,7 @@ Por suerte contamos con una herramienta que hace todo lo que dije y mucho más.
 
 > **git** es un sistema de control de versiones, distribuido.
 
-\*insertar meme de que algo no se entiende\*
+<img src="./recursos/meme_squirtle.png" width="250" height="250" />
 
 Vamo de a partes.
 
