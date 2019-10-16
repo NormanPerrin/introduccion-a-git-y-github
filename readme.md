@@ -63,9 +63,11 @@ Por suerte contamos con una herramienta que hace todo lo que dije y mucho más.
 
 > **git** es un sistema de control de versiones, distribuido.
 
-<img src="./recursos/meme_squirtle.png" width="250" height="250" />
+<p align="center">
+  <img src="./recursos/meme_squirtle.png" width="250" height="250" />
+</p>
 
-Vamo de a partes.
+<p align="center">Vamo de a partes.</p>
 
 ### Versionado
 
